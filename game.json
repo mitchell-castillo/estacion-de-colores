@@ -1,0 +1,14 @@
+{
+  "id": "estacion-de-colores",
+  "title": "Estación de Colores",
+  "date": "2026-10-28",
+  "language": "es",
+  "description": "Conecta cada color con su destino. Ordena grupos de fichas en seis pequeñas estaciones, sin reloj y con símbolos accesibles.",
+  "mechanic": "stack-color-sorting",
+  "levelCount": 6,
+  "storageKey": "daily-games:estacion-de-colores:v1",
+  "entry": "index.html",
+  "cover": "assets/cover.svg",
+  "dependencies": [],
+  "progressVersion": 1
+}
